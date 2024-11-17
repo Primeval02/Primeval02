@@ -1,5 +1,5 @@
 # 🐍 About Me:
-⚪Currently focusing on the ProcrastiPlanner app venture!<br>- Currently entered into the CSUB Venture Accelerator Program.<br>⚪Working on and adding to the sorting emporium for data structures and algorithms.<br>⚪Working on personal projects and trying to learn new stuff!<br>- librosa for audio processing, MFCCs 
+⚪Currently focusing on the ProcrastiPlanner app venture!<br>- Currently entered into the CSUB Venture Accelerator Program.<br>⚪Working on and adding to the AlgoMap emporium for data structures and algorithms.<br>⚪Working on personal projects and trying to learn new stuff!<br>- librosa for audio processing, MFCCs<br>⚪Trying 3D programs from scratch!<br>- Bounding boxes
 
 
 ## 🌐 Socials:
